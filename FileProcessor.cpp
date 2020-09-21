@@ -1,3 +1,18 @@
+/*
+- Raymond Raymond
+- 2297956
+- lyan@chapman.edu
+- CPSC-350-01
+- Assignment 1
+
+- this file is for the class FileProcessor, which handles all core functionalities of this program, like reading the input file,
+evaluating data, outputing the files, etc. 
+
+*/
+
+
+
+
 #include "FileProcessor.h"
 
 using namespace std;

@@ -1,7 +1,24 @@
+/*
+- Raymond Raymond
+- 2297956
+- lyan@chapman.edu
+- CPSC-350-01
+- Assignment 1
+
+- This is the file for main method of this program, it handles all other general functionalities required, wihtout the core function
+of processing and outputing files.
+
+*/
+
+
 #include "FileProcessor.h"
 #include <sstream>
 
 
+/*
+  the main method of the program, responsing for all general procedures, like handling user input commands, etc.
+  the processing of the file will be in the FileProcessor class's processFile function. 
+*/
 int main(int argc, char** argv){
   string filename;
   FileProcessor ds;
